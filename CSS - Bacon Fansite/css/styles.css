@@ -1,0 +1,22 @@
+/***************Tag Selector************/
+
+h1
+{
+  font-size: 100px;
+  color: red;
+}
+
+img:hover
+{
+  height: 250px;
+  background-color: gold;
+}
+
+
+/***************Class Selector************/
+.paneer {background-color: Green}
+.carrot {background-color: yellow}
+.circular {border-radius: 100%;}
+
+/***************Id Selector************/
+#heading {color: blue}
